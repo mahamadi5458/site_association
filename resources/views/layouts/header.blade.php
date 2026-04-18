@@ -241,7 +241,7 @@
                                             </li>
 
                                             <li>
-                                                <a href="news-details.html">
+                                                <a href="{{ route('apropos.index') }}">
                                                     A propos
                                                 </a>
                                                 
