@@ -248,7 +248,7 @@
                                             </li>
 
                                             <li>
-                                                <a href="contact.html">Contactez Nous</a>
+                                                <a href="{{ route('contact.index') }}">Contactez Nous</a>
                                             </li>
                                         </ul>
                                     </nav>
