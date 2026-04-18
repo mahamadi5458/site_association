@@ -229,14 +229,14 @@
                                     <h2 class="accordion-header" id="headingTwo">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            What Is Charity, And Why Is It Important ?
+                                           Quand l'association a-t-elle été créée ?
                                         </button>
                                     </h2>
                                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                         data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>
-                                               Charity not only helps to reduce suffering but also fosters a sense of unity and shared responsibility in society.
+                                               Qui sont 
                                             </p>
                                         </div>
                                     </div>
@@ -245,14 +245,14 @@
                                     <h2 class="accordion-header" id="headingOne">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            How Can I Get Involved In Charity Work ?
+                                            Qui sont les membres fondateurs de l'association ?
                                         </button>
                                     </h2>
                                     <div id="collapseOne" class="accordion-collapse collapse show"
                                         aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>
-                                                Charity not only helps to reduce suffering but also fosters a sense of unity and shared responsibility in society.
+                                                Les membres fondateurs de l'association sont un groupe de femmes passionnées et engagées qui ont décidé de créer une organisation dédiée à la promotion du développement de la femme et de la fille. Ces femmes ont une vision commune de l
                                             </p>
                                         </div>
                                     </div>
