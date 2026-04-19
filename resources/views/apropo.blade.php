@@ -316,11 +316,11 @@
                                 <div class="section-title mb-0">
                                     <span class="sub-title wow fadeInUp">Our Faq</span>
                                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                                        <span>E</span>Explore our FAQs for quick and helpful guidance
+                                        <span>E</span>Vidéo de présentation de l'association
                                     </h2>
                                 </div>
                                 <p class="text wow fadeInUp" data-wow-delay=".5s">
-                                    Charity not only helps to reduce suffering but also fosters a sense of unity and shared responsibility in society. It reminds us of the can make it your significant difference in someone's life.
+                                   Cliquez sur le bouton de lecture pour découvrir notre vidéo de présentation et en savoir plus sur notre mission, nos projets et notre impact dans la communauté. Nous sommes fiers de partager notre histoire avec vous et de vous montrer comment nous travaillons pour faire une différence positive dans la vie des personnes que nous servons.
                                 </p>
                                 <div class="faq-image wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                                     <img src="assets/img/home-1/faq.jpg" alt="img">
@@ -341,7 +341,7 @@
                  <div class="section-title">
                     <span class="sub-title wow fadeInUp">Testimonials</span>
                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                        <span>W</span>hat People Say About Charity.
+                        <span>N</span>ous avons des Objectifs nobles
                     </h2>
                 </div>
                 <div class="testimonial-wrapper">
@@ -360,55 +360,42 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="content">
-                                                <div class="star">
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                </div>
+                                               
+                                                <h3>Promouvoir l’éducation inclusive</h3>
+                                                
                                                 <p>
-                                                    Overall, I cannot recommend The Gourmet Bistro highly enough. If you're looking for a restaurant that serves delicious, beautifully presented dishes with impeccable service, look no further. I will definitely be returning soon to try more of their culinary delights”
+                                                   L’association œuvre pour garantir un accès équitable à l’éducation pour tous, sans distinction de sexe, de condition sociale ou de handicap. Elle met en place des actions pour accompagner les enfants et les jeunes en difficulté.
+                                                   L’objectif est de réduire les exclusions scolaires. Elle encourage également un environnement d’apprentissage adapté à tous. Ainsi, chaque individu peut développer pleinement son potentiel.
                                                 </p>
-                                                <h3>Jonny Ananta</h3>
-                                                <span>Regular Customer’s</span>
+                                                
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="content">
-                                                <div class="star">
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                </div>
+                                               
+                                                <h3>Réduire les disparités liées au genre</h3>
                                                 <p>
-                                                    Overall, I cannot recommend The Gourmet Bistro highly enough. If you're looking for a restaurant that serves delicious, beautifully presented dishes with impeccable service, look no further. I will definitely be returning soon to try more of their culinary delights”
+                                                    L’association œuvre pour garantir l’égalité des chances en matière d’éducation, indépendamment du genre. Elle met en place des initiatives pour sensibiliser et combattre les stéréotypes et les préjugés qui peuvent limiter l’accès à l’éducation pour certains groupes.
                                                 </p>
-                                                <h3>Jonny Ananta</h3>
-                                                <span>Regular Customer’s</span>
+                                                
+                                               
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="content">
-                                                <div class="star">
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                </div>
+                                              <h3>Promouvoir la santé sexuelle et reproductive</h3>
                                                 <p>
-                                                    Overall, I cannot recommend The Gourmet Bistro highly enough. If you're looking for a restaurant that serves delicious, beautifully presented dishes with impeccable service, look no further. I will definitely be returning soon to try more of their culinary delights”
+                                                    L’association informe et sensibilise les adolescents et les jeunes sur les questions liées à la santé sexuelle. Elle
+                                                    encourage des comportements responsables et prévient les risques comme les IST et les grossesses
+                                                    précoces. Des campagnes de dépistage et de conseil sont organisées
                                                 </p>
-                                                <h3>Jonny Ananta</h3>
-                                                <span>Regular Customer’s</span>
+                                                
+                                                
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h6>Total raising money in this year > <span>$4,50,000</span></h6>
+                               
                                 <div class="swiper brand-slider">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
