@@ -316,7 +316,7 @@
                                 <div class="section-title mb-0">
                                     <span class="sub-title wow fadeInUp">Our Faq</span>
                                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                                        <span>E</span>Explore our FAQs for quick and helpful guidance
+                                        <span>E</span>Vidéo Descriptive de notre Association
                                     </h2>
                                 </div>
                                 <p class="text wow fadeInUp" data-wow-delay=".5s">
