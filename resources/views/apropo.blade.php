@@ -236,7 +236,7 @@
                                         data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>
-                                               Qui sont 
+                                               Elle a été crée en 2022
                                             </p>
                                         </div>
                                     </div>
@@ -262,14 +262,14 @@
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapsethree" aria-expanded="false"
                                             aria-controls="collapsethree">
-                                            Dedication for charitable Donations ?
+                                           Quelle est la mission principale de l’AFD/DD ?
                                         </button>
                                     </h2>
                                     <div id="collapsethree" class="accordion-collapse collapse"
                                         aria-labelledby="headingthree" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>
-                                                Charity not only helps to reduce suffering but also fosters a sense of unity and shared responsibility in society.
+                                                La mission principale de l’AFD/DD est de contribuer au bien-être des communautés en promouvant l’éducation inclusive, la santé, l’égalité de genre et le respect des droits humains
                                             </p>
                                         </div>
                                     </div>
@@ -279,14 +279,14 @@
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapsefour" aria-expanded="false"
                                             aria-controls="collapsefour">
-                                           My Donations Are Going To a Charity ?
+                                          Comment l’association contribue-t-elle à l’éducation inclusive ?
                                         </button>
                                     </h2>
                                     <div id="collapsefour" class="accordion-collapse collapse" aria-labelledby="headingfour"
                                         data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>
-                                                Charity not only helps to reduce suffering but also fosters a sense of unity and shared responsibility in society. 
+                                               L’association met en place des actions de soutien scolaire, des sensibilisations et des accompagnements adaptés aux besoins des jeunes.
                                             </p>
                                         </div>
                                     </div>
@@ -296,14 +296,14 @@
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapsefive" aria-expanded="false"
                                             aria-controls="collapsefive">
-                                          Is my donation actually being put to use?
+                                          Comment les partenaires peuvent-ils collaborer avec vous ?
                                         </button>
                                     </h2>
                                     <div id="collapsefive" class="accordion-collapse collapse" aria-labelledby="headingfive"
                                         data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>
-                                                Charity not only helps to reduce suffering but also fosters a sense of unity and shared responsibility in society. 
+                                                Les partenaires peuvent collaborer avec l’association à travers des appuis financiers, techniques ou logistiques. Ils peuvent également participer à la mise en œuvre des projets et des activités sur le terrain.
                                             </p>
                                         </div>
                                     </div>
