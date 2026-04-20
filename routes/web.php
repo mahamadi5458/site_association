@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ActiviteController;
 use App\Http\Controllers\ApropoController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\PartenaireController;
@@ -12,3 +13,4 @@ Route::get('/', function () {
 Route::resource('contact', ContactController::class);
 Route::resource('apropos',ApropoController::class);
 Route::resource('partenaires', PartenaireController::class);
+Route::resource('acticites', ActiviteController::class);

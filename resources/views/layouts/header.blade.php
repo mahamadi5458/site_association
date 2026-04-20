@@ -178,7 +178,7 @@
                                                 </ul>
                                             </li>
                                             <li>
-                                                <a href="about.html">Nos Activités</a>
+                                                <a href="{{ route('acticites.index') }}">Nos Activités</a>
                                             </li>
                                             <li class="has-dropdown">
                                                 <a href="news-details.html">
