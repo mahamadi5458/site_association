@@ -234,7 +234,7 @@
                                                 </ul>
                                             </li>
                                            <li>
-                                                <a href="news-details.html">
+                                                <a href="{{route('partenaires.index')}}">
                                                     Partenaires
                                                 </a>
                                                 

@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ApropoController;
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\PartenaireController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -10,3 +11,4 @@ Route::get('/', function () {
 
 Route::resource('contact', ContactController::class);
 Route::resource('apropos',ApropoController::class);
+Route::resource('partenaires', PartenaireController::class);

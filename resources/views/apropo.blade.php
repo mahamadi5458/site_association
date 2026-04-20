@@ -16,7 +16,7 @@
         </div>
         
         <!-- Hero Section Start -->
-        <div class="breadcrumb-wrapper fix bg-cover" style="background-image: url(assets/img/inner-page/breadcrumb.png);">
+        <div class="breadcrumb-wrapper fix bg-cover" style="background-image: url(assets/img/apropo/apropo1.jpg);">
             <div class="container">
                 <div class="page-heading">
                     <div class="breadcrumb-sub-title">
@@ -47,7 +47,7 @@
                         <div class="col-lg-8">
                             <div class="about-left-item">
                                 <div class="section-title style-2 mb-0">
-                                    <span class="sub-title wow fadeInUp">About Us</span>
+                                    <span class="sub-title wow fadeInUp">Présentation</span>
                                     <h4 class="wow fadeInUp" data-wow-delay=".3s" style="font-family: 'Arial', sans-serif; font-size: 1.2rem; line-height: 1.6; color: #333;">
                                          L'association Femme Debout pour le Développement(AFDD) est une association <br>
                                           de droit Burkinabè reconnue par ordonnance N°1887 du 16 
@@ -126,96 +126,7 @@
                 </div>
             </div>
          </section>
-         
-          <!-- Team Section Start -->
-         <section class="team-section fix">
-            <div class="container">
-                <div class="section-title text-center">
-                    <span class="sub-title wow fadeInUp">Team Members</span>
-                    <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                        <span>M</span>eet The Optimistic Volunteer
-                    </h2>
-                </div>
-                <div class="row">
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".2s">
-                        <div class="team-card-items">
-                            <div class="team-image">
-                                <img src="assets/img/home-1/team/01.jpg" alt="img">
-                            </div>
-                            <div class="team-content">
-                                <h5>
-                                    <a href="volounteer-details.html">Darrell Steward</a>
-                                </h5>
-                                <p>Software Developer</p>
-                                <div class="social-icon">
-                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                    <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
-                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="#"><i class="fas fa-paper-plane"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".4s">
-                        <div class="team-card-items">
-                            <div class="team-image">
-                                <img src="assets/img/home-1/team/02.jpg" alt="img">
-                            </div>
-                            <div class="team-content">
-                                <h5>
-                                    <a href="volounteer-details.html">Courtney Henry</a>
-                                </h5>
-                                <p>Software Developer</p>
-                                <div class="social-icon">
-                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                    <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
-                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="#"><i class="fas fa-paper-plane"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".6s">
-                        <div class="team-card-items">
-                            <div class="team-image">
-                                <img src="assets/img/home-1/team/03.jpg" alt="img">
-                            </div>
-                            <div class="team-content">
-                                <h5>
-                                    <a href="volounteer-details.html">Annette Black</a>
-                                </h5>
-                                <p>Software Developer</p>
-                                <div class="social-icon">
-                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                    <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
-                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="#"><i class="fas fa-paper-plane"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".8s">
-                        <div class="team-card-items">
-                            <div class="team-image">
-                                <img src="assets/img/home-1/team/04.jpg" alt="img">
-                            </div>
-                            <div class="team-content">
-                                <h5>
-                                    <a href="volounteer-details.html">Kristin Watson</a>
-                                </h5>
-                                <p>Software Developer</p>
-                                <div class="social-icon">
-                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                    <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
-                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="#"><i class="fas fa-paper-plane"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-         </section>
+        
 
          <!-- Faq Section Start -->
          <section class="faq-section section-padding fix">
@@ -314,7 +225,7 @@
                         <div class="col-lg-6">
                             <div class="faq-content">
                                 <div class="section-title mb-0">
-                                    <span class="sub-title wow fadeInUp">Our Faq</span>
+                                    <span class="sub-title wow fadeInUp">Quelques informations</span>
                                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
                                         <span>E</span>Vidéo de présentation de l'association
                                     </h2>
@@ -339,7 +250,7 @@
          <section class="testimonial-section section-padding pt-0 fix">
             <div class="container">
                  <div class="section-title">
-                    <span class="sub-title wow fadeInUp">Testimonials</span>
+                    
                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
                         <span>N</span>ous avons des Objectifs nobles
                     </h2>
@@ -348,7 +259,7 @@
                     <div class="row g-4">
                         <div class="col-lg-5 wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="testimonial-image">
-                                <img src="assets/img/home-1/testimonial/01.jpg" alt="img">
+                                <img src="assets/img/apropo/apropo2.jpg" alt="img">
                                 <div class="shape">
                                     <img src="assets/img/home-1/testimonial/shape.png" alt="img">
                                 </div>
