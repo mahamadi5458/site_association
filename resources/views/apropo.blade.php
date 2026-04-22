@@ -39,85 +39,55 @@
             </div>
         </div>
 
-          <!-- About Section Start -->
+          <!-- Modernized design for the "A propos" page -->
          <section class="about-section section-padding fix">
             <div class="container">
-                <div class="about-wrapper-2">
-                    <div class="row g-4">
-                        <div class="col-lg-8">
-                            <div class="about-left-item">
-                                <div class="section-title style-2 mb-0">
-                                    <span class="sub-title wow fadeInUp">Présentation</span>
-                                    <h4 class="wow fadeInUp" data-wow-delay=".3s" style="font-family: 'Arial', sans-serif; font-size: 1.2rem; line-height: 1.6; color: #333;">
-                                         L'association Femme Debout pour le Développement(AFDD) est une association <br>
-                                          de droit Burkinabè reconnue par ordonnance N°1887 du 16 
-                                          Février 2022. Née de la volonté d’un groupe de femmes de contribuer au développement 
-                                         de la femme et la fille. Elle est composée de 
-                                        membres souscrivant aux valeurs de l’association et à son analyse stratégique et qui fait preuve d’un engagement attesté pour notamment sur le renforcement des capacités 
-                                        communautaires pour la résilience aux effets 
-                                        des disparités liées au genre.
-                                        la cause de la solidarité nationale et/ou du développement. L’organisation se conce ntre notamment sur le renforcement des capacités communautaires pour la résilience aux effets des disparités liées au genre.
-                                    </h4>
-                                </div>
-                               
-                                <div class="about-image wow img-custom-anim-left" data-wow-duration="1.3s" data-wow-delay="0.3s">
-                                    <img src="assets/img/home-2/about/01.jpg" alt="img">
-                                </div>
+                <div class="row g-5 align-items-center">
+                    <div class="col-lg-8">
+                        <div class="about-left-item">
+                            <div class="section-title style-2 mb-4">
+                                <span class="sub-title text-warning fw-bold">Présentation</span>
+                                <h2 class="fw-bold" style="color: #3b0764;">L'association Femme Debout pour le Développement</h2>
+                                <p class="text-muted">
+                                    L'association Femme Debout pour le Développement (AFDD) est une organisation reconnue par ordonnance N°1887 du 16 février 2022. Elle vise à renforcer les capacités communautaires pour la résilience aux effets des disparités liées au genre.
+                                </p>
+                            </div>
+                            <div class="about-image rounded shadow-sm overflow-hidden">
+                                <img src="assets/img/home-2/about/01.jpg" alt="Présentation" class="img-fluid">
                             </div>
                         </div>
-                        <div class="col-lg-4">
-                            <div class="about-right-item">
-                                <div class="about-image wow img-custom-anim-right" data-wow-duration="1.3s" data-wow-delay="0.3s">
-                                    <img src="assets/img/home-2/about/02.jpg" alt="img">
-                                </div>
-                                <div class="about-icon-main-item">
-                                    <div class="about-icon-item">
-                                        <div class="icon-item wow fadeInUp" data-wow-delay=".3s">
-                                            <div class="icon">
-                                                <img src="assets/img/home-2/icon/education.svg" alt="Education Icon">
-                                            </div>
-                                            <div class="content">
-                                                <h5>Education</h5>
-                                                <p>
-                                                    Promouvoir l'accès à une éducation de qualité pour tous.
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <div class="icon-item wow fadeInUp" data-wow-delay=".5s">
-                                            <div class="icon">
-                                                <img src="assets/img/home-2/icon/sexual-health.svg" alt="Santé sexuelle Icon">
-                                            </div>
-                                            <div class="content">
-                                                <h5>Santé sexuelle</h5>
-                                                <p>
-                                                    Sensibiliser et améliorer la santé sexuelle et reproductive.
-                                                </p>
-                                            </div>
-                                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="about-right-item">
+                            <div class="about-image rounded shadow-sm overflow-hidden mb-4">
+                                <img src="assets/img/home-2/about/02.jpg" alt="Mission" class="img-fluid">
+                            </div>
+                            <div class="about-icon-main-item">
+                                <div class="icon-item d-flex align-items-center mb-3">
+                                    <div class="icon text-warning fs-3 me-3">
+                                        <i class="fa-solid fa-graduation-cap"></i>
                                     </div>
-                                    <div class="about-icon-item mb-0">
-                                        <div class="icon-item wow fadeInUp" data-wow-delay=".3s">
-                                            <div class="icon">
-                                                <img src="assets/img/home-2/icon/environment.svg" alt="Protection de l'environnement Icon">
-                                            </div>
-                                            <div class="content">
-                                                <h5>Protection de l'environnement</h5>
-                                                <p>
-                                                    Agir pour préserver notre planète et ses ressources.
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <div class="icon-item wow fadeInUp" data-wow-delay=".5s">
-                                            <div class="icon">
-                                                <img src="assets/img/home-2/icon/health-improvement.svg" alt="Amélioration santé Icon">
-                                            </div>
-                                            <div class="content">
-                                                <h5>Amélioration santé</h5>
-                                                <p>
-                                                    Favoriser l'accès à des soins de santé de qualité.
-                                                </p>
-                                            </div>
-                                        </div>
+                                    <div>
+                                        <h5 class="fw-bold">Éducation</h5>
+                                        <p class="text-muted mb-0">Promouvoir l'accès à une éducation de qualité pour tous.</p>
+                                    </div>
+                                </div>
+                                <div class="icon-item d-flex align-items-center mb-3">
+                                    <div class="icon text-warning fs-3 me-3">
+                                        <i class="fa-solid fa-heart"></i>
+                                    </div>
+                                    <div>
+                                        <h5 class="fw-bold">Santé sexuelle</h5>
+                                        <p class="text-muted mb-0">Sensibiliser et améliorer la santé sexuelle et reproductive.</p>
+                                    </div>
+                                </div>
+                                <div class="icon-item d-flex align-items-center">
+                                    <div class="icon text-warning fs-3 me-3">
+                                        <i class="fa-solid fa-leaf"></i>
+                                    </div>
+                                    <div>
+                                        <h5 class="fw-bold">Environnement</h5>
+                                        <p class="text-muted mb-0">Agir pour préserver notre planète et ses ressources.</p>
                                     </div>
                                 </div>
                             </div>
@@ -126,119 +96,52 @@
                 </div>
             </div>
          </section>
-        
 
          <!-- Faq Section Start -->
-         <section class="faq-section section-padding fix">
+         <section class="faq-section section-padding fix bg-light">
             <div class="container">
-                <div class="faq-wrapper">
-                    <div class="row g-4 align-items-center">
-                        <div class="col-lg-6">
-                            <div class="faq-items">
+                <div class="row g-5 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="faq-items">
                             <div class="accordion" id="accordionExample">
-                                <div class="accordion-item wow fadeInUp" data-wow-delay=".3s">
-                                    <h2 class="accordion-header" id="headingTwo">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                           Quand l'association a-t-elle été créée ?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                        data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <p>
-                                               Elle a été crée en 2022
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item wow fadeInUp" data-wow-delay=".5s">
+                                <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            Qui sont les membres fondateurs de l'association ?
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                            Quand l'association a-t-elle été créée ?
                                         </button>
                                     </h2>
-                                    <div id="collapseOne" class="accordion-collapse collapse show"
-                                        aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>
-                                                Les membres fondateurs de l'association sont un groupe de femmes passionnées et engagées qui ont décidé de créer une organisation dédiée à la promotion du développement de la femme et de la fille. Ces femmes ont une vision commune de l
-                                            </p>
+                                            Elle a été créée en 2022.
                                         </div>
                                     </div>
                                 </div>
-                                <div class="accordion-item wow fadeInUp" data-wow-delay=".3s">
-                                    <h2 class="accordion-header" id="headingthree">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapsethree" aria-expanded="false"
-                                            aria-controls="collapsethree">
-                                           Quelle est la mission principale de l’AFD/DD ?
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            Quelle est la mission principale de l’AFDD ?
                                         </button>
                                     </h2>
-                                    <div id="collapsethree" class="accordion-collapse collapse"
-                                        aria-labelledby="headingthree" data-bs-parent="#accordionExample">
+                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>
-                                                La mission principale de l’AFD/DD est de contribuer au bien-être des communautés en promouvant l’éducation inclusive, la santé, l’égalité de genre et le respect des droits humains
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item wow fadeInUp" data-wow-delay=".5s">
-                                    <h2 class="accordion-header" id="headingfour">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapsefour" aria-expanded="false"
-                                            aria-controls="collapsefour">
-                                          Comment l’association contribue-t-elle à l’éducation inclusive ?
-                                        </button>
-                                    </h2>
-                                    <div id="collapsefour" class="accordion-collapse collapse" aria-labelledby="headingfour"
-                                        data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <p>
-                                               L’association met en place des actions de soutien scolaire, des sensibilisations et des accompagnements adaptés aux besoins des jeunes.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item mb-0 wow fadeInUp" data-wow-delay=".3s">
-                                    <h2 class="accordion-header" id="headingfive">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapsefive" aria-expanded="false"
-                                            aria-controls="collapsefive">
-                                          Comment les partenaires peuvent-ils collaborer avec vous ?
-                                        </button>
-                                    </h2>
-                                    <div id="collapsefive" class="accordion-collapse collapse" aria-labelledby="headingfive"
-                                        data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Les partenaires peuvent collaborer avec l’association à travers des appuis financiers, techniques ou logistiques. Ils peuvent également participer à la mise en œuvre des projets et des activités sur le terrain.
-                                            </p>
+                                            Contribuer au bien-être des communautés en promouvant l’éducation inclusive, la santé, et l’égalité de genre.
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="faq-content">
-                                <div class="section-title mb-0">
-                                    <span class="sub-title wow fadeInUp">Quelques informations</span>
-                                    <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                                        <span>E</span>Vidéo de présentation de l'association
-                                    </h2>
-                                </div>
-                                <p class="text wow fadeInUp" data-wow-delay=".5s">
-                                   Cliquez sur le bouton de lecture pour découvrir notre vidéo de présentation et en savoir plus sur notre mission, nos projets et notre impact dans la communauté. Nous sommes fiers de partager notre histoire avec vous et de vous montrer comment nous travaillons pour faire une différence positive dans la vie des personnes que nous servons.
-                                </p>
-                                <div class="faq-image wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                    <img src="assets/img/home-1/faq.jpg" alt="img">
-                                    <a href="https://www.youtube.com/watch?v=Cn4G2lZ_g2I" class="video-btn ripple video-popup">
-                                        <i class="fa-solid fa-play"></i>
-                                    </a>
-                                </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="faq-content">
+                            <h4 class="fw-bold mb-4">Vidéo de présentation</h4>
+                            <p class="text-muted">
+                                Découvrez notre mission, nos projets et notre impact dans la communauté à travers cette vidéo.
+                            </p>
+                            <div class="faq-image position-relative">
+                                <img src="assets/img/home-1/faq.jpg" alt="Vidéo" class="img-fluid rounded shadow-sm">
+                                <a href="https://www.youtube.com/watch?v=Cn4G2lZ_g2I" class="video-btn ripple video-popup">
+                                    <i class="fa-solid fa-play"></i>
+                                </a>
                             </div>
                         </div>
                     </div>

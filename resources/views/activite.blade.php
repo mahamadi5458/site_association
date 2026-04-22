@@ -6,7 +6,7 @@
         <div class="container">
             <div class="page-heading">
                 <div class="breadcrumb-sub-title">
-                    <h1 class="wow fadeInUp" data-wow-delay=".3s">Partenaires</h1>
+                    <h1 class="wow fadeInUp" data-wow-delay=".3s">Nos Activités</h1>
                 </div>
                 <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".5s">
                     <li>
@@ -18,7 +18,7 @@
                         <i class="fa-solid fa-chevron-right"></i>
                     </li>
                     <li>
-                        Partenaires
+                        Activités
                     </li>
                 </ul>
             </div>
@@ -251,6 +251,165 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+
+
+
+    <section class="news-section-3 section-padding fix bg-cover"
+        style="background-image: url(assets/img/home-3/news/bg.jpg);">
+        <div class="left-shape">
+            <img src="assets/img/home-3/news/shape-1.png" alt="img">
+        </div>
+        <div class="right-shape">
+            <img src="assets/img/home-3/news/shape-2.png" alt="img">
+        </div>
+        <div class="container">
+            <div class="section-title style-2">
+                <span class="sub-title wow fadeInUp">Sensibilisation </span>
+                <h2 class="wow fadeInUp" data-wow-delay=".3s">
+                    <span>A</span>ctivités de Sensibilisation
+                </h2>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                    <div class="news-card-items-3">
+                        <div class="news-image">
+                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <div class="news-layer-wrapper">
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                            </div>
+                        </div>
+                        <div class="news-content">
+                           
+                            <h4>
+                                <a href="news-details.html">
+                                   Causérie éducative
+                                </a>
+                            </h4>
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                    <div class="news-card-items-3">
+                        <div class="news-image">
+                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <div class="news-layer-wrapper">
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                            </div>
+                        </div>
+                        <div class="news-content">
+                           
+                            <h4>
+                                <a href="news-details.html">
+                                   Projection de Films
+                                </a>
+                            </h4>
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                    <div class="news-card-items-3">
+                        <div class="news-image">
+                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <div class="news-layer-wrapper">
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                            </div>
+                        </div>
+                        <div class="news-content">
+                           
+                            <h4>
+                                <a href="news-details.html">
+                                  Théâtre Fora
+                                </a>
+                            </h4>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                    <div class="news-card-items-3">
+                        <div class="news-image">
+                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <div class="news-layer-wrapper">
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                            </div>
+                        </div>
+                        <div class="news-content">
+                           
+                            <h4>
+                                <a href="news-details.html">
+                                   Conférences et Débats
+                                </a>
+                            </h4>
+                           
+                        </div>
+                    </div>
+                </div>
+
+
+                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                    <div class="news-card-items-3">
+                        <div class="news-image">
+                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <div class="news-layer-wrapper">
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                <div class="news-layer-image"
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                            </div>
+                        </div>
+                        <div class="news-content">
+                           
+                            <h4>
+                                <a href="news-details.html">
+                                   Conférences et Débats
+                                </a>
+                            </h4>
+                           
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
         </div>
     </section>
 @endsection
