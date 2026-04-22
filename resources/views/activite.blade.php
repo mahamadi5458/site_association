@@ -37,9 +37,9 @@
         </div>
         <div class="container">
             <div class="section-title style-2">
-                <span class="sub-title wow fadeInUp">bLOG & nEWS</span>
+                <span class="sub-title wow fadeInUp">Education</span>
                 <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                    <span>O</span>ur Latest News & Article's
+                    <span>A</span>ctivités sur l'Education
                 </h2>
             </div>
             <div class="row">
@@ -59,95 +59,65 @@
                             </div>
                         </div>
                         <div class="news-content">
-                            <ul class="news-meta">
-                                <li>
-                                    <i class="fa-regular fa-user"></i>
-                                    By : Admin
-                                </li>
-                                <li>
-                                    <i class="fa-regular fa-comment"></i>
-                                    By : Comment
-                                </li>
-                            </ul>
+                           
                             <h4>
                                 <a href="news-details.html">
-                                    Discover unparalleled expertise in market
+                                   Scolarisation et Suivi scolaire des enfants
                                 </a>
                             </h4>
-                            <a href="news-details.html" class="theme-btn">Read More <i
-                                    class="fa-solid fa-arrow-right-long"></i></a>
+                           
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
+                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/home-3/news/02.jpg" alt="img">
+                            <img src="assets/img/home-3/news/01.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/02.jpg');"></div>
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/02.jpg');"></div>
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/02.jpg');"></div>
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/02.jpg');"></div>
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
-                            <ul class="news-meta">
-                                <li>
-                                    <i class="fa-regular fa-user"></i>
-                                    By : Admin
-                                </li>
-                                <li>
-                                    <i class="fa-regular fa-comment"></i>
-                                    By : Comment
-                                </li>
-                            </ul>
+                           
                             <h4>
                                 <a href="news-details.html">
-                                    Explore deep knowledge in market strategy
+                                   Insertion Socio-Professionnelle des Filles
                                 </a>
                             </h4>
-                            <a href="news-details.html" class="theme-btn">Read More <i
-                                    class="fa-solid fa-arrow-right-long"></i></a>
+                           
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
+                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/home-3/news/03.jpg" alt="img">
+                            <img src="assets/img/home-3/news/01.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/03.jpg');"></div>
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/03.jpg');"></div>
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/03.jpg');"></div>
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/03.jpg');"></div>
+                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
-                            <ul class="news-meta">
-                                <li>
-                                    <i class="fa-regular fa-user"></i>
-                                    By : Admin
-                                </li>
-                                <li>
-                                    <i class="fa-regular fa-comment"></i>
-                                    By : Comment
-                                </li>
-                            </ul>
+                           
                             <h4>
                                 <a href="news-details.html">
-                                    Unlock expert insights into market behavior
+                                  Encadrement Scolaire
                                 </a>
                             </h4>
-                            <a href="news-details.html" class="theme-btn">Read More <i
-                                    class="fa-solid fa-arrow-right-long"></i></a>
+                           
                         </div>
                     </div>
                 </div>
@@ -164,9 +134,8 @@
         </div>
         <div class="container">
             <div class="section-title style-2 text-center">
-                <span class="sub-title wow fadeInUp">Our Causes</span>
-                <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                    <span>E</span>xploring possibilities <br> leniting passions
+                <span class="sub-title wow fadeInUp">Education</span>
+                <h2 class="wow fadeInUp" data-wow-delay=".3s">Activités d'Education<br> 
                 </h2>
             </div>
         </div>
@@ -187,15 +156,14 @@
                                 <img src="assets/img/home-2/service/01.png" alt="img">
                                 <div class="causes-content">
                                     <h3>
-                                        <a href="project-details.html">Medical Lab</a>
+                                        <a href="project-details.html">Soutien Juridique</a>
                                     </h3>
                                     <div class="content">
                                         <p>
-                                            “Overall, I cannot recommend The Gourmet Bistro highly enough. If you're looking
-                                            for a restaurant that serves delicious.
+                                            L’association offre une assistance aux personnes en difficulté face à des problèmes juridiques. 
+                                            Elle les informe sur leurs droits et les oriente vers des solutions adaptées. Ce soutien vise à protéger les victimes et à faciliter l’accès à la justice.
                                         </p>
-                                        <a href="project-details.html" class="link-btn">Join With Us <i
-                                                class="fa-solid fa-arrow-right-long"></i></a>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -207,15 +175,14 @@
                                 <img src="assets/img/home-2/service/02.png" alt="img">
                                 <div class="causes-content">
                                     <h3>
-                                        <a href="project-details.html">Education</a>
+                                        <a href="project-details.html">Soutien Scolaire</a>
                                     </h3>
                                     <div class="content">
                                         <p>
-                                            “Overall, I cannot recommend The Gourmet Bistro highly enough. If you're looking
-                                            for a restaurant that serves delicious.
+                                           L’association accompagne les élèves en difficulté à travers des cours de renforcement et un suivi éducatif.
+                                            Elle encourage la réussite scolaire et réduit les risques d’abandon. L’objectif est d’aider chaque enfant à progresser dans son parcours éducatif.
                                         </p>
-                                        <a href="project-details.html" class="link-btn">Join With Us <i
-                                                class="fa-solid fa-arrow-right-long"></i></a>
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -227,15 +194,35 @@
                                 <img src="assets/img/home-2/service/03.png" alt="img">
                                 <div class="causes-content">
                                     <h3>
-                                        <a href="project-details.html">Homeless</a>
+                                        <a href="project-details.html">Soutien Sanitaire</a>
                                     </h3>
                                     <div class="content">
                                         <p>
-                                            “Overall, I cannot recommend The Gourmet Bistro highly enough. If you're looking
-                                            for a restaurant that serves delicious.
+                                           L’association facilite l’accès aux soins de santé pour les personnes vulnérables. 
+                                           Elle organise des sensibilisations et oriente vers les structures sanitaires adaptées. 
+                                           Ce soutien contribue à améliorer le bien-être et la santé des bénéficiaires.
                                         </p>
-                                        <a href="project-details.html" class="link-btn">Join With Us <i
-                                                class="fa-solid fa-arrow-right-long"></i></a>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                      <div class="swiper-slide">
+                        <div class="causes-card-items-2">
+                            <div class="causes-image">
+                                <img src="assets/img/home-2/service/03.png" alt="img">
+                                <div class="causes-content">
+                                    <h3>
+                                        <a href="project-details.html">Prise en charge psychologique des PvHIV et OEV</a>
+                                    </h3>
+                                    <div class="content">
+                                        <p>
+                                           L’association accompagne les personnes vivant avec le VIH (PVVIH) et les orphelins et 
+                                           enfants vulnérables (OEV) sur le plan psychologique et social. Elle offre un soutien moral, des conseils et un suivi adapté à leurs besoins.
+                                        </p>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -247,12 +234,13 @@
                                 <img src="assets/img/home-2/service/04.png" alt="img">
                                 <div class="causes-content">
                                     <h3>
-                                        <a href="project-details.html">Food & Nutrition</a>
+                                        <a href="project-details.html">Soutien Alimentaire</a>
                                     </h3>
                                     <div class="content">
                                         <p>
-                                            “Overall, I cannot recommend The Gourmet Bistro highly enough. If you're looking
-                                            for a restaurant that serves delicious.
+                                           L’association apporte une aide alimentaire aux personnes en situation de précarité.
+                                            Elle contribue à couvrir les besoins nutritionnels essentiels des bénéficiaires. L’objectif
+                                             est de lutter contre la faim et d’améliorer leurs conditions de vie.
                                         </p>
                                         <a href="project-details.html" class="link-btn">Join With Us <i
                                                 class="fa-solid fa-arrow-right-long"></i></a>
@@ -262,10 +250,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="causes-button">
-                <a href="project-details.html" class="theme-btn">Discover More <i
-                        class="fa-solid fa-arrow-right-long"></i></a>
             </div>
         </div>
     </section>
