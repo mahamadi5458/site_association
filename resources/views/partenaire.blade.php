@@ -40,7 +40,7 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                     <div class="team-card-items">
                         <div class="team-image">
-                            <img src="assets/img/home-1/team/01.jpg" alt="img">
+                            <img src="assets/img/partenaire/armoirie-01.jpg" alt="img">
                         </div>
                         <div class="team-content">
                             <h5>
@@ -53,7 +53,7 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".4s">
                     <div class="team-card-items">
                         <div class="team-image">
-                            <img src="assets/img/home-1/team/02.jpg" alt="img">
+                            <img src="assets/img/partenaire/armoirie-01.jpg" alt="img">
                         </div>
                         <div class="team-content">
                             <h5>
@@ -79,7 +79,7 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                     <div class="team-card-items">
                         <div class="team-image">
-                            <img src="assets/img/home-1/team/04.jpg" alt="img">
+                            <img src="assets/img/partenaire/armoirie-01.jpg" alt="img">
                         </div>
                         <div class="team-content">
                             <h5>
@@ -100,7 +100,7 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                     <div class="team-card-items">
                         <div class="team-image">
-                            <img src="assets/img/home-1/team/01.jpg" alt="img">
+                            <img src="assets/img/partenaire/armoirie-01.jpg" alt="img">
                         </div>
                         <div class="team-content">
                             <h5>
@@ -113,7 +113,7 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".4s">
                     <div class="team-card-items">
                         <div class="team-image">
-                            <img src="assets/img/home-1/team/02.jpg" alt="img">
+                            <img src="assets/img/partenaire/armoirie-01.jpg" alt="img">
                         </div>
                         <div class="team-content">
                             <h5>
@@ -125,7 +125,7 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".6s">
                     <div class="team-card-items">
                         <div class="team-image">
-                            <img src="assets/img/home-1/team/03.jpg" alt="img">
+                            <img src="assets/img/partenaire/armoirie-01.jpg" alt="img">
                         </div>
                         <div class="team-content">
                             <h5>
@@ -138,7 +138,7 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                     <div class="team-card-items">
                         <div class="team-image">
-                            <img src="assets/img/home-1/team/04.jpg" alt="img">
+                            <img src="assets/img/partenaire/armoirie-01.jpg" alt="img">
                         </div>
                         <div class="team-content">
                             <h5>

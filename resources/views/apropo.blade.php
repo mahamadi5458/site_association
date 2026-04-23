@@ -53,14 +53,14 @@
                                 </p>
                             </div>
                             <div class="about-image rounded shadow-sm overflow-hidden">
-                                <img src="assets/img/home-2/about/01.jpg" alt="Présentation" class="img-fluid">
+                                <img src="assets/img/apropo/apropo4.jpg" alt="Présentation" class="img-fluid">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="about-right-item">
                             <div class="about-image rounded shadow-sm overflow-hidden mb-4">
-                                <img src="assets/img/home-2/about/02.jpg" alt="Mission" class="img-fluid">
+                                <img src="assets/img/apropo/apropo3.jpg" alt="Mission" class="img-fluid">
                             </div>
                             <div class="about-icon-main-item">
                                 <div class="icon-item d-flex align-items-center mb-3">

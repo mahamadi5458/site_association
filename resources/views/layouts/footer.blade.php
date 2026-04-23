@@ -49,83 +49,46 @@
                         <div class="col-xl-3 col-md-6 col-lg-3 ps-lg-5 wow fadeInUp" data-wow-delay=".4s">
                             <div class="single-footer-widget">
                                 <div class="wid-title">
-                                    <h3>Explore Now</h3>
+                                    <h3>Nos contacts</h3>
                                 </div>
                                 <ul class="list-area">
                                     <li>
                                         <a href="volounteer-details.html">
                                             <i class="fa-solid fa-chevrons-right"></i>
-                                            Contactez Nous
+                                             (+226) 78.53.13.90
                                         </a>
                                     </li>
                                     <li>
                                         <a href="project-details.html">
                                             <i class="fa-solid fa-chevrons-right"></i>
-                                           Project
+                                           (+226) 64.20.95.15
                                         </a>
                                     </li>
                                     <li>
                                         <a href="event-details.html">
                                             <i class="fa-solid fa-chevrons-right"></i>
-                                            Event
+                                            e-mail:afd219@yahoo.com
                                         </a>
                                     </li>
-                                    <li>
-                                        <a href="project-details.html">
-                                            <i class="fa-solid fa-chevrons-right"></i>
-                                            Causes
-                                        </a>
-                                    </li>
+                                   
                                 </ul>
                             </div>
                         </div>
-                         <div class="col-xl-2 col-md-6 col-lg-2 wow fadeInUp" data-wow-delay=".6s">
-                            <div class="single-footer-widget">
-                                <div class="wid-title">
-                                    <h3>Supports</h3>
-                                </div>
-                                <ul class="list-area">
-                                    <li>
-                                        <a href="donation-details.html">
-                                            <i class="fa-solid fa-chevrons-right"></i>
-                                            Domination
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="news.html">
-                                            <i class="fa-solid fa-chevrons-right"></i>
-                                           Forums
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="faq.html">
-                                            <i class="fa-solid fa-chevrons-right"></i>
-                                            Faq
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="contact.html">
-                                            <i class="fa-solid fa-chevrons-right"></i>
-                                            Support Policy
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                        
                         <div class="col-xl-5 col-md-6 col-lg-5 ps-lg-5 wow fadeInUp" data-wow-delay=".8s">
                             <div class="single-footer-widget">
                                 <div class="wid-title">
-                                    <h3>Newsletter</h3>
+                                    <h3>Email</h3>
                                 </div>
                                 <div class="footer-newsletter">
                                     <p>
-                                        Charity not only helps to reduce suffering but also fosters a sense of unity and shared responsibility in society.
+                                        Veuillez nous laisser votre adresse e-mail pour recevoir les dernières nouvelles et mises à jour de notre part.
                                     </p>
                                     <form action="#">
                                         <div class="form-clt">
                                             <input type="text" name="email" id="email" placeholder="Enter Your Email">
                                             <button type="submit" class="theme-btn">
-                                               Subscribe Now
+                                               Envoyez
                                             </button>
                                         </div>
                                     </form>
@@ -142,13 +105,13 @@
                 </div>
                 <div class="footer-bottom">
                     <div class="footer-wrapper">
-                        <p>Copyright & Design By <span>@Kindi</span></p>
+                        <p>Copyright & Design By <span>@DimaTech</span></p>
                         <ul class="footer-bottom-list">
                             <li>
-                                <a href="faq.html">Faq</a>
+                                <a href="faq.html">Activités</a>
                             </li>
                             <li>
-                                <a href="contact.html">Careers</a>
+                                <a href="contact.html">partenaire</a>
                             </li>
                             <li>
                                 <a href="contact.html">Contact</a>

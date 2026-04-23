@@ -46,16 +46,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <img src="assets/img/activité/education.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -72,16 +72,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <img src="assets/img/activité/education.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -98,16 +98,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <img src="assets/img/activité/education.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -134,8 +134,8 @@
         </div>
         <div class="container">
             <div class="section-title style-2 text-center">
-                <span class="sub-title wow fadeInUp">Education</span>
-                <h2 class="wow fadeInUp" data-wow-delay=".3s">Activités d'Education<br> 
+                <span class="sub-title wow fadeInUp">Soutien</span>
+                <h2 class="wow fadeInUp" data-wow-delay=".3s">Activités de Soutien<br> 
                 </h2>
             </div>
         </div>
@@ -153,7 +153,7 @@
                     <div class="swiper-slide">
                         <div class="causes-card-items-2">
                             <div class="causes-image">
-                                <img src="assets/img/home-2/service/01.png" alt="img">
+                                <img src="assets/img/activité/soutien.jpg" alt="img">
                                 <div class="causes-content">
                                     <h3>
                                         <a href="project-details.html">Soutien Juridique</a>
@@ -172,7 +172,7 @@
                     <div class="swiper-slide">
                         <div class="causes-card-items-2">
                             <div class="causes-image">
-                                <img src="assets/img/home-2/service/02.png" alt="img">
+                                <img src="assets/img/activité/soutien.jpg" alt="img">
                                 <div class="causes-content">
                                     <h3>
                                         <a href="project-details.html">Soutien Scolaire</a>
@@ -191,7 +191,7 @@
                     <div class="swiper-slide">
                         <div class="causes-card-items-2">
                             <div class="causes-image">
-                                <img src="assets/img/home-2/service/03.png" alt="img">
+                                <img src="assets/activité/soutien.jpg" alt="img">
                                 <div class="causes-content">
                                     <h3>
                                         <a href="project-details.html">Soutien Sanitaire</a>
@@ -212,7 +212,7 @@
                       <div class="swiper-slide">
                         <div class="causes-card-items-2">
                             <div class="causes-image">
-                                <img src="assets/img/home-2/service/03.png" alt="img">
+                                <img src="assets/img/activité/soutien.jpg" alt="img">
                                 <div class="causes-content">
                                     <h3>
                                         <a href="project-details.html">Prise en charge psychologique des PvHIV et OEV</a>
@@ -231,7 +231,7 @@
                     <div class="swiper-slide">
                         <div class="causes-card-items-2">
                             <div class="causes-image">
-                                <img src="assets/img/home-2/service/04.png" alt="img">
+                                <img src="assets/img/activité/soutien.jpg" alt="img">
                                 <div class="causes-content">
                                     <h3>
                                         <a href="project-details.html">Soutien Alimentaire</a>
@@ -275,16 +275,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <img src="assets/img/activité/sensibilisation.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -301,16 +301,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <img src="assets/img/activité/sensibilisation.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -327,16 +327,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <img src="assets/img/activité/sensibilisation.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -356,16 +356,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <img src="assets/img/activité/sensibilisation.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -384,16 +384,16 @@
                  <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/home-3/news/01.jpg" alt="img">
+                            <img src="assets/img/activité/sensibilisation.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/home-3/news/01.jpg');"></div>
+                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
