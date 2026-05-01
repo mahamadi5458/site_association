@@ -268,7 +268,7 @@
             <div class="section-title style-2">
                 <span class="sub-title wow fadeInUp">Sensibilisation </span>
                 <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                    <span>A</span>ctivités de Sensibilisation
+                    <span>A</span>ctivités de Prévention
                 </h2>
             </div>
             <div class="row">
@@ -291,7 +291,7 @@
                            
                             <h4>
                                 <a href="news-details.html">
-                                   Causérie éducative
+                                   Dépistage sur le VIH/SIDA
                                 </a>
                             </h4>
                            
@@ -317,7 +317,7 @@
                            
                             <h4>
                                 <a href="news-details.html">
-                                   Projection de Films
+                                   Causéries sur la Prévention des IST
                                 </a>
                             </h4>
                            
@@ -343,7 +343,7 @@
                            
                             <h4>
                                 <a href="news-details.html">
-                                  Théâtre Fora
+                                  Journées de Sensibilisation sur les IST et le VIH/SIDA
                                 </a>
                             </h4>
                            
@@ -352,63 +352,7 @@
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="news-card-items-3">
-                        <div class="news-image">
-                            <img src="assets/img/activité/sensibilisation.jpg" alt="img">
-                            <div class="news-layer-wrapper">
-                                <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
-                                <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
-                                <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
-                                <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
-                            </div>
-                        </div>
-                        <div class="news-content">
-                           
-                            <h4>
-                                <a href="news-details.html">
-                                   Conférences et Débats
-                                </a>
-                            </h4>
-                           
-                        </div>
-                    </div>
-                </div>
-
-
-                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="news-card-items-3">
-                        <div class="news-image">
-                            <img src="assets/img/activité/sensibilisation.jpg" alt="img">
-                            <div class="news-layer-wrapper">
-                                <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
-                                <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
-                                <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
-                                <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
-                            </div>
-                        </div>
-                        <div class="news-content">
-                           
-                            <h4>
-                                <a href="news-details.html">
-                                   Conférences et Débats
-                                </a>
-                            </h4>
-                           
-                        </div>
-                    </div>
-                </div>
-
-            </div>
+            
 
         </div>
     </section>
