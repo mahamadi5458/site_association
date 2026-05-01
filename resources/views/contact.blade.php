@@ -112,4 +112,25 @@
         </div>
 
 
+        <script>
+            document.getElementById('contact-form').addEventListener('submit', function(event) {
+                event.preventDefault(); // Empêche l'envoi classique du formulaire
+
+                // Récupération des données du formulaire
+                const name = document.getElementById('name2').value;
+                const email = document.getElementById('email').value;
+                const number = document.getElementById('number').value;
+                const message = document.getElementById('message').value;
+
+                // Construction du message WhatsApp
+                const whatsappMessage = `Bonjour, je suis ${name}.\nEmail: ${email}\nNuméro: ${number}\nMessage: ${message}`;
+
+                // Redirection vers WhatsApp
+                const phoneNumber = '78531390'; // Numéro WhatsApp cible
+                const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(whatsappMessage)}`;
+                window.open(whatsappURL, '_blank');
+            });
+        </script>
+
+
 @endsection

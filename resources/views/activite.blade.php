@@ -72,16 +72,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/activité/education.jpg" alt="img">
+                            <img src="assets/img/education/education_two.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
+                                    style="background-image: url('assets/img/education/education_two.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
+                                    style="background-image: url('assets/img/education/education_two.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
+                                    style="background-image: url('assets/img/education/education_two.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
+                                    style="background-image: url('assets/img/education/education_two.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -98,16 +98,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/activité/education.jpg" alt="img">
+                            <img src="assets/img/education/education_2.jpg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
+                                    style="background-image: url('assets/img/education/education_2.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
+                                    style="background-image: url('assets/img/education/education_2.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
+                                    style="background-image: url('assets/img/education/education_2.jpg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/education.jpg');"></div>
+                                    style="background-image: url('assets/img/education/education_2.jpg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
