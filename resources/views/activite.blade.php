@@ -275,16 +275,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/activité/sensibilisation.jpg" alt="img">
+                            <img src="assets/img/prevention/prevent_one.jpeg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_one.jpeg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_one.jpeg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_one.jpeg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_one.jpeg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -301,16 +301,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/activité/sensibilisation.jpg" alt="img">
+                            <img src="assets/img/prevention/prevent_two.jpeg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_two.jpeg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_two.jpeg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_two.jpeg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_two.jpeg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -327,16 +327,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/activité/sensibilisation.jpg" alt="img">
+                            <img src="assets/img/prevention/prevent_3.jpeg" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_3.jpeg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_3.jpeg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_3.jpeg');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/activité/sensibilisation.jpg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevent_3.jpeg');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -356,4 +356,72 @@
 
         </div>
     </section>
+
+
+       <!-- News Section Start -->
+         <section class="news-section section-padding pt-0 fix">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span class="sub-title wow fadeInUp">Nettoyage</span>
+                    <h2 class="wow fadeInUp" data-wow-delay=".3s">
+                        <span>O</span>rganisation de Journées de Salubrité
+                    </h2>
+                </div>
+                <div class="row">
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                        <div class="news-card-items">
+                            <div class="news-image">
+                                <img src="assets/img/nettoyage/nettoyage1.jpeg" alt="img">
+                                <div class="news-layer-wrapper">
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage1.jpeg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage1.jpeg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage1.jpeg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage1.jpeg');"></div>
+                                </div>
+                                <div class="bottom-shape">
+                                    <img src="assets/img/home-1/news/shape.png" alt="img">
+                                </div>
+                            </div>
+                           
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
+                        <div class="news-card-items">
+                            <div class="news-image">
+                                <img src="assets/img/nettoyage/nettoyage2.jpeg" alt="img">
+                                 <div class="news-layer-wrapper">
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage2.jpeg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage2.jpeg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage2.jpeg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage2.jpeg');"></div>
+                                </div>
+                                <div class="bottom-shape">
+                                    <img src="assets/img/home-1/news/shape.png" alt="img">
+                                </div>
+                            </div>
+                           
+                                
+                                
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
+                        <div class="news-card-items">
+                            <div class="news-image">
+                                <img src="assets/img/nettoyage/nettoyage3.jpeg" alt="img">
+                                 <div class="news-layer-wrapper">
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage3.jpeg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage3.jpeg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage3.jpeg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/nettoyage/nettoyage3.jpeg');"></div>
+                                </div>
+                                <div class="bottom-shape">
+                                    <img src="assets/img/home-1/news/shape.png" alt="img">
+                                </div>
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+         </section>
 @endsection
