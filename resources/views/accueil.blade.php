@@ -31,9 +31,9 @@
                     <div class="swiper-slide">
                         <div class="hero-1">
                             <div class="shape">
-                                <img src="assets/img/home-1/hero/shape.png" alt="img">
+                                <img src="assets/img/acceuil/acceuil1.png" alt="img">
                             </div>
-                            <div class="hero-bg bg-cover" style="background-image: url(assets/img/home-1/hero/hero-bg.jpg);">
+                            <div class="hero-bg bg-cover" style="background-image: url(assets/img/acceuil/acceil1.png);">
                             </div>
                                 <div class="container">
                                     <div class="row g-4 justify-content-center">
