@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
 
 class PartenaireController extends Controller
 {
@@ -60,5 +61,44 @@ class PartenaireController extends Controller
     public function destroy(string $id)
     {
         //
+    }
+
+    /**
+     * Handle the form submission and send email.
+     */
+    public function sendForm(Request $request)
+    {
+        $validated = $request->validate([
+            'typePartenariat' => 'required|string',
+            'prenom' => 'required|string',
+            'nom' => 'required|string',
+            'email' => 'required|email',
+            'telephone' => 'nullable|string',
+            'organisation' => 'nullable|string',
+            'typeOrg' => 'nullable|string',
+            'pays' => 'nullable|string',
+            'site' => 'nullable|url',
+            'motivation' => 'nullable|string',
+        ]);
+
+        $emailData = [
+            'typePartenariat' => $validated['typePartenariat'],
+            'prenom' => $validated['prenom'],
+            'nom' => $validated['nom'],
+            'email' => $validated['email'],
+            'telephone' => $validated['telephone'] ?? 'N/A',
+            'organisation' => $validated['organisation'] ?? 'N/A',
+            'typeOrg' => $validated['typeOrg'] ?? 'N/A',
+            'pays' => $validated['pays'] ?? 'N/A',
+            'site' => $validated['site'] ?? 'N/A',
+            'motivation' => $validated['motivation'] ?? 'N/A',
+        ];
+
+        Mail::send('emails.partenaire', $emailData, function ($message) {
+            $message->to('mahamadisanfo32@gmail.com')
+                    ->subject('Nouvelle candidature de partenariat');
+        });
+
+        return back()->with('success', 'Votre candidature a été envoyée avec succès.');
     }
 }

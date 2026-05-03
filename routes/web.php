@@ -16,3 +16,5 @@ Route::resource('apropos',ApropoController::class);
 Route::resource('partenaires', PartenaireController::class);
 Route::resource('acticites', ActiviteController::class);
 Route::resource('accueils', AccueilController::class);
+
+Route::post('/partenariat', [PartenaireController::class, 'sendForm'])->name('partenariat.send');

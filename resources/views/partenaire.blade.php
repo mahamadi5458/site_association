@@ -176,7 +176,8 @@
                        
                         <hr class="border-warning border-2 opacity-100 mb-4" style="width: 48px;" />
 
-                        <form novalidate>
+                        <form action="{{ route('partenariat.send') }}" method="POST" novalidate>
+                            @csrf
 
                             <!-- Type de partenariat -->
                             <p class="text-uppercase fw-semibold small text-secondary mb-2">
