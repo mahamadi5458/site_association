@@ -17,104 +17,76 @@
         </div>
         
         <!-- Hero Section Start -->
-         <section class="hero-section-1">
-            <div class="arrow-button">
-                <button class="array-prev">
-                    <i class="fa-light fa-chevron-left"></i>
-                </button>
-                <button class="array-next">
-                    <i class="fa-light fa-chevron-right"></i>
-                </button>
+       <section class="hero-section hero-3 fix bg-cover" style="background-image: url(assets/img/home-3/hero/bg.jpg);">
+            <div class="right-shape">
+                <img src="assets/img/home-3/hero/shape-3.png" alt="img">
             </div>
-            <div class="swiper hero-slider">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="hero-1">
-                            <div class="shape">
-                                <img src="assets/img/acceuil/acceuil1.png" alt="img">
+            <div class="left-shape">
+                <img src="assets/img/home-3/hero/shape-4.png" alt="img">
+            </div>
+            <div class="box float-bob-y">
+                <div class="icon">
+                    <img src="assets/img/home-3/icon/11.svg" alt="img">
+                </div>
+                <div class="content">
+                    <h6>Exchange Finance</h6>
+                    <span>&552.99</span>
+                </div>
+            </div>
+             <div class="shape-1">
+                <img src="assets/img/home-3/hero/shape.png" alt="img">
+            </div>
+            <div class="shape-2">
+                <img src="assets/img/home-3/hero/shape-2.png" alt="img">
+            </div> 
+            <div class="container-fluid">
+                <div class="row g-4 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="hero-content">
+                            <h6 class="wow fadeInUp">Together We Create Impact </h6>
+                            <h1 class="wow fadeInUp" data-wow-delay=".3s">
+                                Education changes the <span>world - support</span> education.
+                            </h1>
+                            <p class="wow fadeInUp" data-wow-delay=".5s">
+                                Overall, I cannot recommend The Gourmet Bistro highly enough. If you're looking for a restaurant that serves delicious, beautifully presented dishes with impeccable service.
+                            </p>
+                            <div class="hero-button-item wow fadeInUp" data-wow-delay=".3s">
+                                <a href="contact.html" class="theme-btn border-btn">Join With Us <i class="fa-solid fa-arrow-right-long"></i></a>
+                                <span class="button-text">
+                                    <a href="https://www.youtube.com/watch?v=Cn4G2lZ_g2I" class="video-btn ripple video-popup">
+                                        <i class="fa-solid fa-play"></i></a>
+                                    <span class="ms-3">Video Playing Theme</span>
+                                </span>
                             </div>
-                            <div class="hero-bg bg-cover" style="background-image: url(assets/img/acceuil/acceil1.png);">
-                            </div>
-                                <div class="container">
-                                    <div class="row g-4 justify-content-center">
-                                        <div class="col-lg-10">
-                                            <div class="hero-content">
-                                                <h6 data-animation="fadeInUp" data-delay="1.3s">Start Donating Poor People</h6>
-                                                <h1 data-animation="fadeInUp" data-delay="1.5s">
-                                                    We Are Non Profit Charity Organization
-                                                </h1>
-                                               <p data-animation="fadeInUp" data-delay="1.3s">
-                                                Charity not only helps to reduce suffering but also fosters a sense of unity and shared responsibility in difference in someone's life.
-                                               </p>
-                                                <div class="hero-button" data-animation="fadeInUp" data-delay="1.5s">
-                                                    <a href="contact.html" class="theme-btn">Join With Us <i class="fa-solid fa-arrow-right-long"></i></a>
-                                                    <a href="about.html" class="theme-btn border-btn">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                              </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
-                        <div class="hero-1">
-                            <div class="shape">
-                                <img src="assets/img/home-1/hero/shape.png" alt="img">
-                            </div>
-                            <div class="hero-bg bg-cover" style="background-image: url(assets/img/home-1/hero/hero-bg-2.jpg);">
-                            </div>
-                                <div class="container">
-                                    <div class="row g-4 justify-content-center">
-                                        <div class="col-lg-10">
-                                            <div class="hero-content">
-                                                <h6 data-animation="fadeInUp" data-delay="1.3s">Start Donating Poor People</h6>
-                                                <h1 data-animation="fadeInUp" data-delay="1.5s">
-                                                    We Are Non Profit Charity Organization
-                                                </h1>
-                                               <p data-animation="fadeInUp" data-delay="1.3s">
-                                                Charity not only helps to reduce suffering but also fosters a sense of unity and shared responsibility in difference in someone's life.
-                                               </p>
-                                                <div class="hero-button" data-animation="fadeInUp" data-delay="1.5s">
-                                                    <a href="contact.html" class="theme-btn">Join With Us <i class="fa-solid fa-arrow-right-long"></i></a>
-                                                    <a href="about.html" class="theme-btn border-btn">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
+                    <div class="col-lg-6">
+                        <div class="swiper hero-image-slider">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="hero-image">
+                                        <img src="assets/img/home-3/hero/01.png" alt="img">
                                     </div>
-                              </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="hero-image">
+                                        <img src="assets/img/home-3/hero/01.png" alt="img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="hero-image">
+                                        <img src="assets/img/home-3/hero/01.png" alt="img">
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="hero-1">
-                             <div class="shape">
-                                <img src="assets/img/home-1/hero/shape.png" alt="img">
-                            </div>
-                            <div class="hero-bg bg-cover" style="background-image: url(assets/img/home-1/hero/hero-bg-3.jpg);">
-                            </div>
-                                <div class="container">
-                                    <div class="row g-4 justify-content-center">
-                                        <div class="col-lg-10">
-                                            <div class="hero-content">
-                                                <h6 data-animation="fadeInUp" data-delay="1.3s">Start Donating Poor People</h6>
-                                                <h1 data-animation="fadeInUp" data-delay="1.5s">
-                                                    We Are Non Profit Charity Organization
-                                                </h1>
-                                               <p data-animation="fadeInUp" data-delay="1.3s">
-                                                Charity not only helps to reduce suffering but also fosters a sense of unity and shared responsibility in difference in someone's life.
-                                               </p>
-                                                <div class="hero-button" data-animation="fadeInUp" data-delay="1.5s">
-                                                    <a href="contact.html" class="theme-btn">Join With Us <i class="fa-solid fa-arrow-right-long"></i></a>
-                                                    <a href="about.html" class="theme-btn border-btn">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                              </div>
+                        <div class="swiper-dot-2">
+                            <div class="dot"></div>
                         </div>
                     </div>
                 </div>
             </div>
-         </section>
+        </section>
 
          <!-- About Section Start -->
           <div class="counter-section fix section-bg-1" style="position: relative; top:40px">
