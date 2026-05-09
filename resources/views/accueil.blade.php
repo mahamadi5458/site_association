@@ -17,7 +17,7 @@
         </div>
         
         <!-- Hero Section Start -->
-       <section class="hero-section hero-3 fix bg-cover" style="background-image: url(assets/img/home-3/hero/bg.jpg);">
+       <section class="hero-section hero-3 fix bg-cover";">
             <div class="right-shape">
                 <img src="assets/img/home-3/hero/shape-3.png" alt="img">
             </div>
@@ -43,19 +43,20 @@
                 <div class="row g-4 align-items-center">
                     <div class="col-lg-6">
                         <div class="hero-content">
-                            <h6 class="wow fadeInUp">Together We Create Impact </h6>
+                            <h6 class="wow fadeInUp">Engagé pour un Burkina meilleur </h6>
                             <h1 class="wow fadeInUp" data-wow-delay=".3s">
-                                Education changes the <span>world - support</span> education.
+                                Association des Femmes Débout </span> pour le Developpement.
                             </h1>
                             <p class="wow fadeInUp" data-wow-delay=".5s">
-                                Overall, I cannot recommend The Gourmet Bistro highly enough. If you're looking for a restaurant that serves delicious, beautifully presented dishes with impeccable service.
+                               Informer, accompagner et protéger :
+                                notre engagement au service des jeunes et des communautés.
                             </p>
                             <div class="hero-button-item wow fadeInUp" data-wow-delay=".3s">
-                                <a href="contact.html" class="theme-btn border-btn">Join With Us <i class="fa-solid fa-arrow-right-long"></i></a>
+                                <a href="contact.html" class="theme-btn border-btn">Rejoignez Nous<i class="fa-solid fa-arrow-right-long"></i></a>
                                 <span class="button-text">
                                     <a href="https://www.youtube.com/watch?v=Cn4G2lZ_g2I" class="video-btn ripple video-popup">
                                         <i class="fa-solid fa-play"></i></a>
-                                    <span class="ms-3">Video Playing Theme</span>
+                                    <span class="ms-3">Présentation de notre Association</span>
                                 </span>
                             </div>
                         </div>
@@ -65,17 +66,17 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="hero-image">
-                                        <img src="assets/img/home-3/hero/01.png" alt="img">
+                                        <img src="assets/img/acceuil/acceuil_one.png" alt="img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="hero-image">
-                                        <img src="assets/img/home-3/hero/01.png" alt="img">
+                                        <img src="assets/img/acceuil/acceuil_two.png" alt="img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="hero-image">
-                                        <img src="assets/img/home-3/hero/01.png" alt="img">
+                                        <img src="assets/img/acceuil/acceuil_three.png" alt="img">
                                     </div>
                                 </div>
                             </div>
@@ -98,38 +99,39 @@
                     <div class="row g-4 align-items-center">
                         <div class="col-lg-6">
                             <div class="counter-image">
-                                <img src="assets/img/home-1/feature/01.jpg" alt="img">
-                                <div class="shape">
+                                <img src="assets/img/acceuil/acceuil_satat.png" alt="img">
+                                {{-- <div class="shape">
                                     <img src="assets/img/home-1/feature/shape-1.png" alt="img">
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="counter-content">
                                 <div class="section-title mb-0">
-                                    <span class="sub-title wow fadeInUp">Numbers</span>
+                                    <span class="sub-title wow fadeInUp">Statistiques</span>
                                     <h2 class="sec-title">
-                                        <span>W</span>e Always Help The <br> Needy Peoply
+                                        <span>N</span>ous  nous engagons pour le Devéloppement
                                     </h2>
                                 </div>
                                 <p class="text wow fadeInUp" data-wow-delay=".3s">
-                                    Charity helps to reduce suffering but also fosters a sense of unity and shared responsibility in difference in someone's life.
+                                   Nous agissons chaque jour pour bâtir une société plus juste, inclusive et solidaire.
+                                    À travers nos actions, nous donnons une voix aux plus vulnérables.
                                 </p>
                                 <div class="counter-main-item">
                                     <div class="counter-item wow fadeInUp" data-wow-delay=".5s">
                                         <div class="content style-2">
-                                            <h2><span class="count">35</span>k</h2>
-                                            <p>Team Suppor</p>
+                                            <h2><span class="count">20</span>+</h2>
+                                            <p>Membres de l'Association</p>
                                         </div>
                                          <div class="content">
-                                            <h2><span class="count">1</span>k+</h2>
-                                            <p>Successful Camaigns</p>
+                                            <h2><span class="count">500</span>+</h2>
+                                            <p>Personnes bénéficiaires</p>
                                         </div>
                                     </div>
                                     <div class="counter-item style-border wow fadeInUp" data-wow-delay=".3s">
                                         <div class="content">
-                                            <h2><span class="count">15</span>k+</h2>
-                                            <p>Incredible Volunteers</p>
+                                            <h2><span class="count">15</span>+</h2>
+                                            <p> Partenaires</p>
                                         </div>
                                          <div class="content style-2">
                                             <h2><span class="count">400</span>+</h2>
@@ -171,10 +173,11 @@
                             </div>
                                 <div class="section-title style-2 mb-0">
                                     <h2 class="text-white wow fadeInUp" data-wow-delay=".3s">
-                                        <span>O</span>ur door are always open to more to more people who what to <br> support each other
+                                        <span>S</span>ensibiliser, soutenir et transformer,
+                                                tel est notre engagement pour un monde plus équitable.
                                     </h2>
                                 </div>
-                                <a href="contact.html" class="theme-btn wow fadeInUp" data-wow-delay=".3s">Get Involved <i class="fa-solid fa-arrow-right-long"></i></a>
+                                <a href="contact.html" class="theme-btn wow fadeInUp" data-wow-delay=".3s">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
                             </div>
                         </div>
                     </div>
@@ -199,9 +202,9 @@
             </div>
             <div class="container">
                 <div class="section-title style-2 text-center">
-                    <span class="sub-title wow fadeInUp">Why Choose Us</span>
+                    <span class="sub-title wow fadeInUp">Faites un Bon Choix</span>
                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                        <span>W</span>hy trust our kindi ?
+                        <span>P</span>ourquoi choisir AFDD
                     </h2>
                 </div>
                 <div class="choose-us-wrapper-3">

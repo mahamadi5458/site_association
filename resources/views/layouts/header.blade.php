@@ -92,9 +92,7 @@
                                 </button>
                             </div>
                         </div>
-                        <p class="text d-none d-xl-block">
-                            Nullam dignissim, ante scelerisque the  is euismod fermentum odio sem semper the is erat, a feugiat leo urna eget eros. Duis Aenean a imperdiet risus.
-                        </p>
+
                         <div class="mobile-menu fix mb-3"></div>
                         <div class="offcanvas__contact d-xl-block">
                             <h4 class="d-xl-block">Contact Info</h4>
@@ -103,9 +101,7 @@
                                     <div class="offcanvas__contact-icon">
                                         <i class="fal fa-map-marker-alt"></i>
                                     </div>
-                                    <div class="offcanvas__contact-text">
-                                        <a target="_blank" href="#">Main Street, Melbourne, Australia</a>
-                                    </div>
+                                    
                                 </li>
                                 <li class="d-flex align-items-center">
                                     <div class="offcanvas__contact-icon mr-15">
@@ -119,9 +115,7 @@
                                     <div class="offcanvas__contact-icon mr-15">
                                         <i class="fal fa-clock"></i>
                                     </div>
-                                    <div class="offcanvas__contact-text">
-                                        <a target="_blank" href="#">Mod-friday, 09am -05pm</a>
-                                    </div>
+                                  
                                 </li>
                                 <li class="d-flex align-items-center">
                                     <div class="offcanvas__contact-icon mr-15">
@@ -260,7 +254,7 @@
                             </a>
                             <div class="header-button">
                                 <a href="donation-details.html" class="theme-btn">
-                                  Donte Now <i class="fa-solid fa-arrow-right"></i>
+                                  En savoir plus <i class="fa-solid fa-arrow-right"></i>
                                 </a>
                             </div>
                             <div class="header__hamburger d-xl-none my-auto">
