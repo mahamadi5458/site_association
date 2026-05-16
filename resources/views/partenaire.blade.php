@@ -100,11 +100,11 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                     <div class="team-card-items">
                         <div class="team-image">
-                            <img src="assets/img/partenaire/armoirie-01.jpg" alt="img">
+                            <img src="assets/img/partenaire/logo2.png" alt="img">
                         </div>
                         <div class="team-content">
                             <h5>
-                                Commune de Ouagadougou
+                                PAMAC
                             </h5>
 
                         </div>
@@ -113,11 +113,11 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".4s">
                     <div class="team-card-items">
                         <div class="team-image">
-                            <img src="assets/img/partenaire/armoirie-01.jpg" alt="img">
+                            <img src="assets/img/partenaire/logo1.png" alt="img">
                         </div>
                         <div class="team-content">
                             <h5>
-                                Commission Nationale des Droits Humains (CNDH)
+                                IGNITY
                             </h5>
                         </div>
                     </div>
@@ -125,11 +125,11 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".6s">
                     <div class="team-card-items">
                         <div class="team-image">
-                            <img src="assets/img/partenaire/armoirie-01.jpg" alt="img">
+                            <img src="assets/img/partenaire/logo3.jpg" alt="img">
                         </div>
                         <div class="team-content">
                             <h5>
-                                Délégations Spéciales des arrondissements 2 et 3
+                                CILS IS Burkina Faso,
                             </h5>
 
                         </div>
@@ -138,7 +138,7 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                     <div class="team-card-items">
                         <div class="team-image">
-                            <img src="assets/img/partenaire/armoirie-01.jpg" alt="img">
+                            <img src="assets/img/partenaire/logo4.png" alt="img">
                         </div>
                         <div class="team-content">
                             <h5>

@@ -156,7 +156,7 @@
                                     <nav id="mobile-menu">
                                         <ul>
                                             <li class="has-dropdown active menu-thumb">
-                                                <a href="{{route('accueils.index')}}">
+                                                <a href="/">
                                                     Accueil 
                                                 </a>
                                                 
@@ -174,7 +174,8 @@
                                             <li>
                                                 <a href="{{ route('acticites.index') }}">Nos Activités</a>
                                             </li>
-                                            <li class="has-dropdown">
+
+                                            {{-- <li class="has-dropdown">
                                                 <a href="news-details.html">
                                                     Nos Objectifs
                                                 </a>
@@ -226,7 +227,8 @@
                                                     <li><a href="faq.html">Our Faq</a></li>
                                                     <li><a href="404.html">404 Page</a></li>
                                                 </ul>
-                                            </li>
+                                            </li> --}}
+                                            
                                            <li>
                                                 <a href="{{route('partenaires.index')}}">
                                                     Partenaires

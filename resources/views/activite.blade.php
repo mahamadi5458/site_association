@@ -424,4 +424,87 @@
                 </div>
             </div>
          </section>
+
+
+           <section class="news-section section-padding pt-0 fix">
+            <div class="container">
+                <div class="section-title style-2 text-center">
+                    <span class="sub-title wow fadeInUp">bLOG & nEWS</span>
+                    <h2 class="wow fadeInUp" data-wow-delay=".3s">
+                        <span>O</span>ur Latest News & Article's
+                    </h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                        <div class="news-card-items-2">
+                            <div class="news-image">
+                                <img src="assets/img/home-2/news/01.jpg" alt="img">
+                                <div class="news-layer-wrapper">
+                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/01.jpg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/01.jpg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/01.jpg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/01.jpg');"></div>
+                                </div>
+                            </div>
+                            <div class="news-content">
+                                <ul class="news-meta">
+                                    <li>
+                                        <i class="fa-regular fa-user"></i>
+                                        By : Admin
+                                    </li>
+                                    <li>
+                                        <i class="fa-regular fa-comment"></i>
+                                        By : Comment
+                                    </li>
+                                </ul>
+                                <h3>
+                                    <a href="news-details.html">
+                                        Discover unparalleled expertise in market
+                                    </a>
+                                </h3>
+                                <p>
+                                    “Overall, I cannot recommend The Gourmet Bistro highly enough. If you're looking for a restaurant that serves delicious, beautifully presented dishes.
+                                </p>
+                               <a href="news-details.html" class="theme-btn border-btn">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
+                        <div class="news-card-items-2">
+                            <div class="news-image">
+                                <img src="assets/img/home-2/news/02.jpg" alt="img">
+                                <div class="news-layer-wrapper">
+                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/02.jpg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/02.jpg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/02.jpg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/02.jpg');"></div>
+                                </div>
+                            </div>
+                            <div class="news-content">
+                                <ul class="news-meta">
+                                    <li>
+                                        <i class="fa-regular fa-user"></i>
+                                        By : Admin
+                                    </li>
+                                    <li>
+                                        <i class="fa-regular fa-comment"></i>
+                                        By : Comment
+                                    </li>
+                                </ul>
+                                <h3>
+                                    <a href="news-details.html">
+                                        See you impact transparent donation tracking
+                                    </a>
+                                </h3>
+                                <p>
+                                    “Overall, I cannot recommend The Gourmet Bistro highly enough. If you're looking for a restaurant that serves delicious, beautifully presented dishes.
+                                </p>
+                               <a href="news-details.html" class="theme-btn border-btn">Read More <i class="fa-solid fa-arrow-right-long"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+         </section>
+         
 @endsection
