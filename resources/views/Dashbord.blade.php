@@ -306,10 +306,29 @@
                                 </div>
                                 <div class="project-content">
                                     <div class="content">
-                                        {{-- <h3>
-                                            <a href="project-details.html">Child Educations</a>
-                                        </h3> --}}
-                                        <h5>Charity & Funding</h5>
+                                        <h3>
+                                            <a href="project-details.html">Dépistage du VIH SIDA</a>
+                                        </h3>
+                                        
+                                    </div>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide brand-slide-element">
+                        <div class="project-card-item">
+                        <div class="project-image">
+                            <img src="assets/img/acceuil/section_projet2.png" alt="img">
+                                <div class="shape-image">
+                                    <img src="assets/img/acceuil/section_projet2.png" alt="img">
+                                </div>
+                                <div class="project-content">
+                                    <div class="content">
+                                        <h3>
+                                            <a href="project-details.html">Conférence publique</a>
+                                        </h3>
+                                        <h5>Soutien PsychoSocial</h5>
                                     </div>
                                     <a href="project-details.html" class="arrow-icon"><i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -319,11 +338,11 @@
                     <div class="swiper-slide brand-slide-element">
                         <div class="project-card-item">
                         <div class="project-image">
-                            <img src="assets/img/acceuil/section_projet1.png" alt="img">
+                            <img src="assets/img/acceuil/section_projet3.png" alt="img">
                                 <div class="shape-image">
-                                    <img src="assets/img/acceuil/section_projet1.png" alt="img">
+                                    <img src="assets/img/acceuil/section_projet3.png" alt="img">
                                 </div>
-                                <div class="project-content">
+                                {{-- <div class="project-content">
                                     <div class="content">
                                         <h3>
                                             <a href="project-details.html">Child Educations</a>
@@ -331,26 +350,7 @@
                                         <h5>Charity & Funding</h5>
                                     </div>
                                     <a href="project-details.html" class="arrow-icon"><i class="fa-solid fa-arrow-right-long"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide brand-slide-element">
-                        <div class="project-card-item">
-                        <div class="project-image">
-                            <img src="assets/img/acceuil/section_projet1.png" alt="img">
-                                <div class="shape-image">
-                                    <img src="assets/img/acceuil/section_projet1.png" alt="img">
-                                </div>
-                                <div class="project-content">
-                                    <div class="content">
-                                        <h3>
-                                            <a href="project-details.html">Child Educations</a>
-                                        </h3>
-                                        <h5>Charity & Funding</h5>
-                                    </div>
-                                    <a href="project-details.html" class="arrow-icon"><i class="fa-solid fa-arrow-right-long"></i></a>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                     </div>
@@ -361,9 +361,9 @@
                     <div class="swiper-slide brand-slide-element">
                         <div class="project-card-item">
                         <div class="project-image">
-                            <img src="assets/img/acceuil/section_projet1.png" alt="img">
+                            <img src="assets/img/acceuil/section_projet4.png" alt="img">
                                 <div class="shape-image">
-                                    <img src="assets/img/acceuil/section_projet1.png" alt="img">
+                                    <img src="assets/img/acceuil/section_projet4.png" alt="img">
                                 </div>
                                 <div class="project-content style-2">
                                     {{-- <div class="content">
@@ -380,9 +380,9 @@
                     <div class="swiper-slide brand-slide-element">
                         <div class="project-card-item">
                         <div class="project-image">
-                            <img src="assets/img/acceuil/section_projet1.png" alt="img">
+                            <img src="assets/img/acceuil/section_projet5.png" alt="img">
                                 <div class="shape-image">
-                                    <img src="assets/img/acceuil/section_projet1.png" alt="img">
+                                    <img src="assets/img/acceuil/section_projet5.png" alt="img">
                                 </div>
                                 {{-- <div class="project-content style-2">
                                     <div class="content">
@@ -399,9 +399,9 @@
                     <div class="swiper-slide brand-slide-element">
                         <div class="project-card-item">
                         <div class="project-image">
-                            <img src="assets/img/acceuil/section_projet1.png" alt="img">
+                            <img src="assets/img/acceuil/section_projet6.png" alt="img">
                                 <div class="shape-image">
-                                    <img src="assets/img/acceuil/section_projet1.png" alt="img">
+                                    <img src="assets/img/acceuil/section_projet6.png" alt="img">
                                 </div>
                                 <div class="project-content style-2">
                                     <div class="content">
