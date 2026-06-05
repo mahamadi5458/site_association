@@ -172,7 +172,7 @@
                     <div class="swiper-slide">
                         <div class="causes-card-items-2">
                             <div class="causes-image">
-                                <img src="assets/img/activité/soutien.jpg" alt="img">
+                                <img src="assets/img/activité/soutien_scolaire.png" alt="img">
                                 <div class="causes-content">
                                     <h3>
                                         <a href="project-details.html">Soutien Scolaire</a>
@@ -188,7 +188,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
+                    {{-- <div class="swiper-slide">
                         <div class="causes-card-items-2">
                             <div class="causes-image">
                                 <img src="assets/activité/soutien.jpg" alt="img">
@@ -207,7 +207,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
 
                       <div class="swiper-slide">
                         <div class="causes-card-items-2">
@@ -228,7 +228,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
+                    {{-- <div class="swiper-slide">
                         <div class="causes-card-items-2">
                             <div class="causes-image">
                                 <img src="assets/img/activité/soutien.jpg" alt="img">
@@ -248,7 +248,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
         </div>
@@ -265,7 +265,7 @@
             <img src="assets/img/home-3/news/shape-2.png" alt="img">
         </div>
         <div class="container">
-            <div class="section-title style-2">
+            <div class="section-title style-2">dfn,;;
                 <span class="sub-title wow fadeInUp">Sensibilisation </span>
                 <h2 class="wow fadeInUp" data-wow-delay=".3s">
                     <span>A</span>ctivités de Prévention
@@ -275,16 +275,16 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="news-card-items-3">
                         <div class="news-image">
-                            <img src="assets/img/prevention/prevent_one.jpeg" alt="img">
+                            <img src="assets/img/prevention/prevention_new.png" alt="img">
                             <div class="news-layer-wrapper">
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/prevention/prevent_one.jpeg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevention_new.png');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/prevention/prevent_one.jpeg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevention_new.png');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/prevention/prevent_one.jpeg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevention_new.png');"></div>
                                 <div class="news-layer-image"
-                                    style="background-image: url('assets/img/prevention/prevent_one.jpeg');"></div>
+                                    style="background-image: url('assets/img/prevention/prevention_new.png');"></div>
                             </div>
                         </div>
                         <div class="news-content">
@@ -429,34 +429,25 @@
            <section class="news-section section-padding pt-0 fix">
             <div class="container">
                 <div class="section-title style-2 text-center">
-                    <span class="sub-title wow fadeInUp">bLOG & nEWS</span>
+                    <span class="sub-title wow fadeInUp">Formations</span>
                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                        <span>O</span>ur Latest News & Article's
+                        <span>O</span>rganisation d'Ateliers de Formation
                     </h2>
                 </div>
                 <div class="row">
                     <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                         <div class="news-card-items-2">
                             <div class="news-image">
-                                <img src="assets/img/home-2/news/01.jpg" alt="img">
+                                <img src="assets/img/acceuil/nutrition2.jpg" alt="img">
                                 <div class="news-layer-wrapper">
-                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/01.jpg');"></div>
-                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/01.jpg');"></div>
-                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/01.jpg');"></div>
-                                    <div class="news-layer-image" style="background-image: url('assets/img/home-2/news/01.jpg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/acceuil/nutrition2.jpg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/acceuil/nutrition2.jpg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/acceuil/nutrition2.jpg');"></div>
+                                    <div class="news-layer-image" style="background-image: url('assets/img/acceuil/nutrition2.jpg');"></div>
                                 </div>
                             </div>
                             <div class="news-content">
-                                <ul class="news-meta">
-                                    <li>
-                                        <i class="fa-regular fa-user"></i>
-                                        By : Admin
-                                    </li>
-                                    <li>
-                                        <i class="fa-regular fa-comment"></i>
-                                        By : Comment
-                                    </li>
-                                </ul>
+                              
                                 <h3>
                                     <a href="news-details.html">
                                         Discover unparalleled expertise in market

@@ -403,7 +403,7 @@
                                 <div class="shape-image">
                                     <img src="assets/img/acceuil/section_projet6.png" alt="img">
                                 </div>
-                                <div class="project-content style-2">
+                                {{-- <div class="project-content style-2">
                                     <div class="content">
                                         <h3>
                                             <a href="project-details.html">Child Educations</a>
@@ -411,7 +411,7 @@
                                         <h5>Charity & Funding</h5>
                                     </div>
                                     <a href="project-details.html" class="arrow-icon"><i class="fa-solid fa-arrow-right-long"></i></a>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                     </div>
@@ -636,7 +636,9 @@
                                         data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>
-                                               Quels sont les principaux objectifs de l’association ?
+                                               La lutte contre les IST/VIH ; le paludisme ; les drogues et l’hépatite 
+                                                La protection de l’environnement 
+                                                La promotion de la solidarité 
                                             </p>
                                         </div>
                                     </div>
@@ -652,7 +654,9 @@
                                         aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>
-                                               Quels sont les principaux objectifs de l’association ?
+                                                Les objectifs de l’AFD/DD sont : Promouvoir l’éducation inclusive, Réduire les disparités liées au genre, Promouvoir la santé sexuelle et 
+                                                reproductive des adolescents et 
+                                                        jeunes, Promouvoir les Droits Humains 
                                             </p>
                                         </div>
                                     </div>
@@ -669,7 +673,10 @@
                                         aria-labelledby="headingthree" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>
-                                               Comment puis-je devenir membre ou bénévole de l’association ?
+                                              Pour devenir membre ou bénévole de l’AFD/DD, il vous suffit de contacter l’association 
+                                              via nos différents canaux de communication ou de remplir le formulaire d’adhésion disponible sur la plateforme. Toute
+                                              personne motivée à contribuer aux actions humanitaires et au développement communautaire est la bienvenue. Vous pourrez
+                                               ainsi participer activement à nos activités et projets sur le terrain.
                                             </p>
                                         </div>
                                     </div>
@@ -686,7 +693,8 @@
                                         data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>
-                                                Charity not only helps to reduce suffering but also fosters a sense of unity and shared responsibility in society. 
+                                                L’association contribue à l’éducation inclusive à travers le soutien scolaire, 
+                                                les sensibilisations et l’accompagnement des enfants et jeunes en situation de vulnérabilité.
                                             </p>
                                         </div>
                                     </div>
