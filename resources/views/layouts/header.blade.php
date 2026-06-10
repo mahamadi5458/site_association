@@ -157,7 +157,7 @@
                                         <ul>
                                             <li class="has-dropdown active menu-thumb">
                                                 <a href="/">
-                                                    Accueil 
+                                                    Home 
                                                 </a>
                                                 
                                             </li>
